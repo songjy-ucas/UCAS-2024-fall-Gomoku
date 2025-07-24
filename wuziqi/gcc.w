@@ -1,0 +1,1 @@
+gcc -o play main.c board.c playervs.c direction.c getshape.c forbid.c
